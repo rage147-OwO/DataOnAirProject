@@ -37,3 +37,4 @@ mesh = trimesh.Trimesh(vertices=vertices, faces=faces,visual=trimesh.visual.text
 
 # Export to GLTF
 mesh.export('output.glb')
+
