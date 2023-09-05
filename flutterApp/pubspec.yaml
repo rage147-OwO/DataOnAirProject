@@ -1,0 +1,25 @@
+name: example
+description: A project that showcases usage of model_viewer
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_native_splash:
+
+dev_dependencies:
+  carapacik_lints: ^1.4.1
+  flutter_lints: ^2.0.0
+  http: ^1.1.0
+  image_picker: ^0.8.2
+  model_viewer_plus:
+    path:
+      ../
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/a.png
