@@ -6,12 +6,8 @@
 
 </br></br>
 
-#### Watch the Demo:
-
-Click to watch the video:
-
-[![Video Label](http://img.youtube.com/vi/WXp8tD126k8/0.jpg)](https://www.youtube.com/watch?v=WXp8tD126k8)
-[![Video Label](http://img.youtube.com/vi/aDtGdCJB10A/0.jpg)](https://www.youtube.com/watch?v=aDtGdCJB10A)
+https://www.youtube.com/watch?v=WXp8tD126k8
+https://www.youtube.com/watch?v=aDtGdCJB10A
 
 
 #### 프로젝트 기간: 
