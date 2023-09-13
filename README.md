@@ -1,9 +1,17 @@
 ## 치은염 감지를 위한 Mesh 생성 서비스
 
+</br>
 
 ![제목 없는 다이어그램](https://github.com/rage147-OwO/DataOnAirProject/assets/96696114/4977f093-0ff0-4a4d-9b51-cf29950a5568)
-[![Demo Video](http://img.youtube.com/vi/WXp8tD126k8/0.jpg)](https://www.youtube.com/watch?v=WXp8tD126k8)
-[![Demo Video](http://img.youtube.com/vi/aDtGdCJB10A/0.jpg)](https://www.youtube.com/watch?v=aDtGdCJB10A)
+
+</br></br>
+
+#### Watch the Demo:
+
+Click to watch the video:
+
+[![Video Label](http://img.youtube.com/vi/WXp8tD126k8/0.jpg)](https://www.youtube.com/watch?v=WXp8tD126k8)
+[![Video Label](http://img.youtube.com/vi/aDtGdCJB10A/0.jpg)](https://www.youtube.com/watch?v=aDtGdCJB10A)
 
 
 #### 프로젝트 기간: 
