@@ -1,4 +1,4 @@
-### 치은염 감지를 위한 Mesh 생성 서비스
+## 치은염 감지를 위한 Mesh 생성 서비스
 
 
 ![제목 없는 다이어그램](https://github.com/rage147-OwO/DataOnAirProject/assets/96696114/4977f093-0ff0-4a4d-9b51-cf29950a5568)
